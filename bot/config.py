@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = "1426384790:AAGBkuAPSEnqcHRmet0sQcHP6DRW8lAhvBQ"
-    APP_ID = "1737036"
-    API_HASH = "d0482a809423646493e805dd13ee750b"
-    DATABASE_URL = "postgres://quuzctdbmolwbg:efe458c1a2b3d9f95f97b5824dfc791175283f190f4af7c0435f55b3bac92e74@ec2-52-72-221-20.compute-1.amazonaws.com:5432/d2ahg52pq24vu5"
+    BOT_TOKEN = "1425349917:AAHNeyb5MtGH3OJaqCUvDgp5RIHxRYtXWRs"
+    APP_ID = "1966207"
+    API_HASH = "520b8f2c21ceb60859c9c50082f49167"
+    DATABASE_URL = "postgres://tgmhnvvvtjlevx:0ec9822fcca7099ed6d6bd4b5830d12f041dd628dda0d65f19a29b03dd7afb5d@ec2-52-206-15-227.compute-1.amazonaws.com:5432/ddf4kfp62ugse4"
     SUDO_USERS = "818390061" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me/cartoontv_official"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
