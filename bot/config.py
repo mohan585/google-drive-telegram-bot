@@ -1,7 +1,7 @@
 class config:
     BOT_TOKEN = "1425349917:AAHNeyb5MtGH3OJaqCUvDgp5RIHxRYtXWRs"
-    APP_ID = "1966207"
-    API_HASH = "520b8f2c21ceb60859c9c50082f49167"
+    APP_ID = "1635711"
+    API_HASH = "dd06c714a25ccdfb6d64452df78ee62b"
     DATABASE_URL = "postgres://sfpdijmeoqeckt:08e24ec6f33bbbcef3e584a6319d60e421001889a6865d519880c0c3fb41ba15@ec2-34-195-233-155.compute-1.amazonaws.com:5432/d6he75coknukna"
     SUDO_USERS = "818390061" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/cartoontv_official"
